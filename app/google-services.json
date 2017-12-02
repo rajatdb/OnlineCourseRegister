@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "265159096631",
+    "firebase_url": "https://onlineclassregister.firebaseio.com",
+    "project_id": "onlineclassregister",
+    "storage_bucket": "onlineclassregister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265159096631:android:94e3d3d315136716",
+        "android_client_info": {
+          "package_name": "iclass.rajat_pc.example.com.onlineclassregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265159096631-mtlla5e96mv1u5dmti4302uh5f21hc90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iclass.rajat_pc.example.com.onlineclassregister",
+            "certificate_hash": "7c9ae87b2194b2d9771b44f138ef524fbb786759"
+          }
+        },
+        {
+          "client_id": "265159096631-uuaajkcl9e7rupshgfs44n95ghg12gj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfpnfogida-AfA84qaZtE91ulvcX2aZ3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265159096631-uuaajkcl9e7rupshgfs44n95ghg12gj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
